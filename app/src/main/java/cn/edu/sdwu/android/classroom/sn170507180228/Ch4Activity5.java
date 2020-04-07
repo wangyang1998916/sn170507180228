@@ -11,7 +11,7 @@ public class Ch4Activity5 extends AppCompatActivity {
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.layout_ch4_6);
-        //获取资源
+        //获取的资源
         //在JANA中获取字符串资源
         String content=getString(R.string.hello);
         Log.i(Ch4Activity5.this.toString(),content);
