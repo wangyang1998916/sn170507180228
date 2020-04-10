@@ -30,6 +30,6 @@ public class Ch4Activity2 extends AppCompatActivity {
 
                                               });
 
-
     }
+
 }
