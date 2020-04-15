@@ -32,6 +32,8 @@
         <activity android:name=".Ch4Activity6" />
         <activity android:name=".Ch4Activity7" />
         <activity android:name=".Ch4Activity8" />
+        <activity android:name=".Ch5Activity1" />
+        <activity android:name=".Ch5Activity2"></activity>
     </application>
 
 </manifest>
