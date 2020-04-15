@@ -33,7 +33,9 @@
         <activity android:name=".Ch4Activity7" />
         <activity android:name=".Ch4Activity8" />
         <activity android:name=".Ch5Activity1" />
-        <activity android:name=".Ch5Activity2"></activity>
+        <activity android:name=".Ch5Activity2" />
+        <activity android:name=".Ch5Activity3" />
+        <activity android:name=".Ch5Activity4"></activity>
     </application>
 
 </manifest>
